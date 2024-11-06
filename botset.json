@@ -1,0 +1,15 @@
+{
+    "token" : "여기에 디스코드 봇 토큰을 넣어주세요", 
+    "playlist_chenal_id" : 12341234,
+    "canplay_contry_list_id" : 12341234,
+    "error_chenal" : 12341234,
+    "sql_ip" : "여기에 Mysql ip를 넣어주세요", 
+    "user" :"여기에 Mysql 아이디를 넣어주세요",
+    "passwd":"여기에 Mysql 비번을 넣어주세요",
+    "db" : "여기에 데이터베이스 이름을 넣어주세요",
+    "Steam" : "여기에 스팀 API 키를 넣어주세요",
+    "two_warning_role" : 12341234,
+    "one_warning_role" : 12341234,
+    "admin_log_chenal_id" : 12341234,
+    "participant_role" : 12341234
+}
